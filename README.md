@@ -9,5 +9,6 @@ Este proyecto consiste en un juego básico de la serpiente desarrollado en Pytho
 - Finalización del juego.
 
 - Python
-  AUTOR
+
+   AUTOR
 Jakerson Cevillano
