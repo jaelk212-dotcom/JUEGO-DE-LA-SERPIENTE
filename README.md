@@ -8,7 +8,7 @@ Este proyecto consiste en un juego básico de la serpiente desarrollado en Pytho
 - Detección de colisiones.
 - Finalización del juego.
 
-- Python
+ Python
 
    AUTOR
 Jakerson Cevillano
